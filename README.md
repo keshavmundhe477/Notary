@@ -12,7 +12,7 @@
 
  ## Demo
 
-You can visit the app [here](https://keshavmundhe477.github.io/Notary-TheBookReader/).
+- You can visit the app [here](https://keshavmundhe477.github.io/Notary-TheBookReader/).
 
 ## Tech Stack
 
@@ -40,32 +40,34 @@ You can visit the app [here](https://keshavmundhe477.github.io/Notary-TheBookRea
 
 ## Project Structure
 
-├── /books/                  # Contains the book files in .txt format
-├── /images/                 # Stores any images used in the project
-├── /css/                    # Stylesheets
-│   └── style.css            # Main CSS file for custom styles
-├── /js/                     # JavaScript files
-│   ├── SearchString.js      # Contains search functionality
-│   └── main.js              # Core JS to handle book loading and analysis
-├── index.html               # Main HTML file
-└── README.md                # Project README file
+- ├── /books/                  # Contains the book files in .txt format
+- ├── /images/                 # Stores any images used in the project
+- ├── /css/                    # Stylesheets
+- │   └── style.css            # Main CSS file for custom styles
+- ├── /js/                     # JavaScript files
+- │   ├── SearchString.js      # Contains search functionality
+- │   └── main.js              # Core JS to handle book loading and analysis
+- ├── index.html               # Main HTML file
+- └── README.md                # Project README file
 
 ## Usage
 
 1.**Clone the Repository**
 
-git clone https://github.com/keshavmundhe477/Notary.git
-cd Notary
+- git clone https://github.com/keshavmundhe477/Notary-TheBookReader.git
+- cd Notary
 
 2.**Run the Application**
 
--Open the index.html file in any web browser to use the app locally.
+- Open the index.html file in any web browser to use the app locally.
 
 3.**Add More Books**
--Place .txt files of new books in the /books/ folder and update the sidebar with their filenames.
+
+- Place .txt files of new books in the /books/ folder and update the sidebar with their filenames.
+
 
 ## Future Improvements
 
--Add support for more file formats (e.g., .epub or .pdf).
--Implement bookmarking and progress tracking features.
--Enhance the word analysis to provide more detailed insights (e.g., word clouds or n-gram analysis).
+- Add support for more file formats (e.g., .epub or .pdf).
+- Implement bookmarking and progress tracking features.
+- Enhance the word analysis to provide more detailed insights (e.g., word clouds or n-gram analysis).
