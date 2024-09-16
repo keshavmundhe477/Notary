@@ -12,7 +12,7 @@
 
  ## Demo
 
-You can visit the app [here](https://keshavmundhe477.github.io/Notary/).
+You can visit the app [here](https://keshavmundhe477.github.io/Notary-TheBookReader/).
 
 ## Tech Stack
 
