@@ -10,10 +10,14 @@
 - **Document Statistics**: Displays basic statistics about the loaded book, including character count, word count, and document length.
 - **Smooth Scrolling**: Ensures a smooth reading experience by scrolling to search results.
 
+ ## Demo
+
+You can visit the app [here](https://keshavmundhe477.github.io/Notary/).
+
 ## Tech Stack
 
 - **HTML5**: Used for structuring the webpage and layout.
-- **JavaScript (Vanilla JS)**: Handles dynamic content loading, search functionality, and word analysis.
+- **JavaScript**: Handles dynamic content loading, search functionality, and word analysis.
 - **Bootstrap 4**: Provides a responsive design and pre-styled components.
 - **FontAwesome**: For additional icons in the interface.
 
@@ -50,8 +54,8 @@
 
 1.**Clone the Repository**
 
-git clone https://github.com/your-username/notary-book-reader.git
-cd notary-book-reader
+git clone https://github.com/keshavmundhe477/Notary.git
+cd Notary
 
 2.**Run the Application**
 
